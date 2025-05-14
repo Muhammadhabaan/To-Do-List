@@ -92,3 +92,20 @@ h1
     box-sizing: border-box;
     text-overflow: ellipsis;
 }
+
+.delete-button
+{
+    display:block;
+    font-family: Trebuchet MS;
+    padding: 11.5px 20px;
+    cursor: pointer;
+    background-color: rgb(195, 0, 68);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    margin: 9.4px;
+    font-size: 14px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px;
+    align-self: center;
+}
